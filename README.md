@@ -61,5 +61,5 @@ This project has been presented at Summercon 2016 and Shmoocon 2017.
 
 ## Contributors 
 
-This project started as a Senior Honors Thesis at Dartmouth College. Sergey Bratus advised and designed the project, and David Wu is the main contributer. Kirti Vardhan Rathore is the current maintainer for the project.
+This project started as a Senior Honors Thesis at Dartmouth College. Sergey Bratus advised and designed the project, and David Wu is the main contributer. Kirti Vardhan Rathore is another contributor to the project.
 Ionic Security has provided funding for testing phones and tablets. 
